@@ -1,0 +1,4 @@
+https://api.jquery.com/wp-content/themes/api.jquery.com/i/favicon.ico
+https://api.jquery.com/wp-content/themes/jquery/content/books/jquery-in-action.jpg
+https://api.jquery.com/wp-content/themes/jquery/content/books/jquery-succinctly.jpg
+https://api.jquery.com/wp-content/themes/jquery/content/books/learning-jquery-4th-ed.jpg
